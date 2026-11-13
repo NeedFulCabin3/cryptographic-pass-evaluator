@@ -1,4 +1,4 @@
-# cryptographic-pass-evaluator
+# Cryptographic Pass Evaluator
 
 > Probabilistic Assessment of Passphrase Vulnerability Through Supervised Classification
 
